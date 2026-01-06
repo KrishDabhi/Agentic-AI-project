@@ -1,136 +1,76 @@
-"""JSON-RPC communication protocol for agent-to-agent communication."""
+# communication/message_protocol.py
 
 import json
-from typing import Dict, Any, List
-from enum import Enum
+from typing import Any, Dict, List, Optional
 
+class JSONRPCRequest:
+    """Represents a JSON-RPC request."""
+    
+    def __init__(self, method: str, params: Optional[Dict[str, Any]] = None, request_id: Optional[int] = None):
+        self.method = method
+        self.params = params or {}
+        self.id = request_id  # Can be int, str, or null
 
-class MessageType(Enum):
-    """Message types for agent communication."""
-    REQUEST = "request"
-    RESPONSE = "response"
-    NOTIFICATION = "notification"
-    ERROR = "error"
-
-
-class MessageProtocol:
-    """Define message format and protocol for agent communication."""
-
-    @staticmethod
-    def create_request(method: str, params: Dict[str, Any], request_id: str = None) -> Dict[str, Any]:
-        """
-        Create a JSON-RPC request message.
-        
-        Args:
-            method: Method name to invoke
-            params: Parameters for the method
-            request_id: Unique request identifier
-            
-        Returns:
-            Formatted request message
-        """
-        import uuid
+    def to_dict(self) -> Dict[str, Any]:
+        """Convert to dictionary for serialization."""
         return {
             "jsonrpc": "2.0",
-            "method": method,
-            "params": params,
-            "id": request_id or str(uuid.uuid4()),
+            "method": self.method,
+            "params": self.params,
+            "id": self.id
         }
 
-    @staticmethod
-    def create_response(result: Dict[str, Any], request_id: str) -> Dict[str, Any]:
-        """
-        Create a JSON-RPC response message.
-        
-        Args:
-            result: Result data
-            request_id: Original request ID
-            
-        Returns:
-            Formatted response message
-        """
-        return {
-            "jsonrpc": "2.0",
-            "result": result,
-            "id": request_id,
-        }
+    @classmethod
+    def from_dict(cls, data: Dict[str, Any]) -> 'JSONRPCRequest':
+        """Create from dictionary."""
+        return cls(
+            method=data["method"],
+            params=data.get("params", {}),
+            request_id=data.get("id")
+        )
 
-    @staticmethod
-    def create_error(error_code: int, error_message: str, request_id: str = None) -> Dict[str, Any]:
-        """
-        Create a JSON-RPC error message.
-        
-        Args:
-            error_code: Error code
-            error_message: Error description
-            request_id: Original request ID
-            
-        Returns:
-            Formatted error message
-        """
-        return {
-            "jsonrpc": "2.0",
-            "error": {
-                "code": error_code,
-                "message": error_message,
-            },
-            "id": request_id,
-        }
+class JSONRPCResponse:
+    """Represents a JSON-RPC response."""
+    
+    def __init__(self, result: Any = None, error: Optional[Dict[str, Any]] = None, request_id: Optional[int] = None):
+        self.result = result
+        self.error = error
+        self.id = request_id
 
-    @staticmethod
-    def create_notification(method: str, params: Dict[str, Any]) -> Dict[str, Any]:
-        """
-        Create a JSON-RPC notification message (no response expected).
-        
-        Args:
-            method: Method name to invoke
-            params: Parameters for the method
-            
-        Returns:
-            Formatted notification message
-        """
-        return {
-            "jsonrpc": "2.0",
-            "method": method,
-            "params": params,
-        }
+    def to_dict(self) -> Dict[str, Any]:
+        """Convert to dictionary for serialization."""
+        response = {"jsonrpc": "2.0"}
+        if self.error is not None:
+            response["error"] = self.error
+        else:
+            response["result"] = self.result
+        if self.id is not None:
+            response["id"] = self.id
+        return response
 
-    @staticmethod
-    def validate_message(message: Dict[str, Any]) -> bool:
-        """
-        Validate message format.
-        
-        Args:
-            message: Message to validate
-            
-        Returns:
-            True if valid, False otherwise
-        """
-        required_fields = ["jsonrpc", "method"] if "method" in message else ["jsonrpc", "id"]
-        return all(field in message for field in required_fields)
+    @classmethod
+    def from_dict(cls, data: Dict[str, Any]) -> 'JSONRPCResponse':
+        """Create from dictionary."""
+        return cls(
+            result=data.get("result"),
+            error=data.get("error"),
+            request_id=data.get("id")
+        )
 
-    @staticmethod
-    def serialize_message(message: Dict[str, Any]) -> str:
-        """
-        Serialize message to JSON string.
-        
-        Args:
-            message: Message dictionary
-            
-        Returns:
-            JSON string representation
-        """
-        return json.dumps(message)
+# Define available methods(this is your API contract)
+AVAILABLE_METHODS = {
+    "planner.plan_monitoring_strategy": "Plan ESG monitoring strategy based on user query.",
+    "executor.execute_task": "Execute a single monitoring task.",
+    "validator.validate_result": "Validate execution results."
+}
 
-    @staticmethod
-    def deserialize_message(json_string: str) -> Dict[str, Any]:
-        """
-        Deserialize message from JSON string.
-        
-        Args:
-            json_string: JSON string representation
-            
-        Returns:
-            Message dictionary
-        """
-        return json.loads(json_string)
+def create_error_response(error_code: int, error_message: str, request_id: Optional[int] = None) -> JSONRPCResponse:
+    """Helper to create standardized error responses."""
+    return JSONRPCResponse(
+        error={
+            "code": error_code,
+            "message": error_message,
+            "data": None
+        },
+        request_id=request_id
+    )
