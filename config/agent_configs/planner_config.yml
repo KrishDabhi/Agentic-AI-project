@@ -19,4 +19,4 @@ thresholds:
 parameters:
   planning_horizon: 30  # days
   review_frequency: 7   # days
-  confidence_threshold: 0.85
+  confidence_threshold: 0.90
