@@ -1,5 +1,3 @@
-"""Dummy portfolio management for synthetic ESG risk analysis."""
-
 from typing import Dict, List, Any
 from utils.logger import get_logger
 
@@ -20,6 +18,7 @@ class DummyPortfolio:
         return [
             {
                 "company_id": "COMP001",
+            
                 "name": "TechCorp Industries",
                 "sector": "Technology",
                 "country": "USA",
@@ -31,6 +30,7 @@ class DummyPortfolio:
                 "name": "GreenEnergy Ltd",
                 "sector": "Energy",
                 "country": "UK",
+            
                 "market_cap": 150e9,  # $150B
                 "esg_exposure": {"E": 0.95, "S": 0.5, "G": 0.8},
             },
@@ -111,3 +111,35 @@ class DummyPortfolio:
                 "G": sum(c["esg_exposure"]["G"] for c in self.companies) / len(self.companies),
             },
         }
+
+    def run_monitoring_cycle(self, companies: List[str] = None, dimensions: List[str] = None) -> Dict[str, Any]:
+        """Run a monitoring cycle for the portfolio.
+
+        Args:
+            companies: List of companies to monitor
+            dimensions: ESG dimensions to monitor
+        Returns:
+            Results of the monitoring cycle 
+        """
+        if not companies:
+            companies = [c["name"] for c in self.companies[:3]]
+        
+        if not dimensions:
+            dimensions = ["E", "S", "G"]
+        
+        logger.info(f"Running monitoring cycle for {companies} - dimensions {dimensions}")
+        
+        # Dummy results for demonstration
+        cycle_result = {
+            "cycle_id": "cycle_001",
+            "monitored_companies": companies,
+            "monitored_dimensions": dimensions,
+            "status": "completed",
+            "findings": [
+                {"company": company, "dimension": dim, "risk_level": "low"}
+                for company in companies for dim in dimensions
+            ],
+        }
+        
+        logger.info("Monitoring cycle completed")
+        return cycle_result
