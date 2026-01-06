@@ -1,27 +1,46 @@
-# Core dependencies
-requests==2.32.3
+# Multi-agent system
+# asyncio is built-in with Python 3.12+
+
+# JSON-RPC Communication
+json-rpc==1.15.0
+
+# Configuration management
+PyYAML==6.0.1
+
+# Data processing
 pandas==2.2.2
 numpy==1.26.4
-scikit-learn==1.5.0
-spacy==3.7.5
 
-# Web framework for dashboard
-dash==2.17.1
-plotly==5.20.0
+# Machine learning
+scikit-learn==1.5.0
+
+# API requests
+requests==2.32.3
 
 # Database
 sqlalchemy==2.0.30
 
-# Logging
-python-dateutil==2.9.0
-
-# Testing
-pytest==8.2.2
-unittest-xml-reporting==3.2.0
-
-# Text processing
+# Natural Language Processing (optional)
+spacy==3.7.5
 nltk==3.8.1
 textblob==0.17.1
 
-# Type hints
+# Web framework for future dashboard
+dash==2.17.1
+plotly==5.20.0
+
+# Logging & utilities
+python-dateutil==2.9.0
+
+# Type hints & validation
 typing-extensions==4.12.2
+pydantic==2.5.3
+
+# Testing & quality
+pytest==8.2.2
+pytest-cov==4.1.0
+pytest-asyncio==0.23.2
+unittest-xml-reporting==3.2.0
+black==23.12.1
+pylint==3.0.3
+mypy==1.7.1
