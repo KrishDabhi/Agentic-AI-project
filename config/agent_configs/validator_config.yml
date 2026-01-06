@@ -1,0 +1,30 @@
+"""Configuration for Validator Agent."""
+
+agent_id: validator_agent
+agent_type: quality_assurance
+
+# Validation Configuration
+validation:
+  validation_threshold: 0.8  # 80% quality required
+  strict_mode: false
+  auto_escalate: true
+
+# Validation Checks
+checks:
+  data_completeness: true
+  metric_range_validation: true
+  timestamp_validation: true
+  outlier_detection: true
+  consistency_checks: true
+
+# Quality Metrics
+quality_metrics:
+  min_data_points: 10
+  acceptable_variance: 0.15
+  anomaly_threshold: 3.0  # standard deviations
+
+# Reporting
+reporting:
+  generate_detailed_reports: true
+  alert_on_low_quality: true
+  quality_score_threshold: 0.75

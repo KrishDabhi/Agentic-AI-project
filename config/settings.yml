@@ -1,0 +1,43 @@
+# ESG Monitor Multi-Agent System Configuration
+
+# Global Settings
+system:
+  name: ESG Monitor
+  version: 2.0.0
+  log_level: INFO
+  debug: false
+
+# Agent Configuration
+agents:
+  enable_planner: true
+  enable_executor: true
+  enable_validator: true
+  communication_timeout: 30
+
+# Data Settings
+data:
+  synthetic_data_enabled: true
+  data_refresh_interval: 3600  # seconds
+  batch_size: 100
+
+# Portfolio Settings
+portfolio:
+  dummy_portfolio_enabled: true
+  risk_threshold: 7.0
+  materiality_threshold: 6.0
+
+# Dashboard Settings
+dashboard:
+  port: 8050
+  debug: false
+  host: "0.0.0.0"
+  theme: "bootstrap"
+
+# Monitoring Settings
+monitoring:
+  esg_dimensions:
+    - E  # Environmental
+    - S  # Social
+    - G  # Governance
+  alert_threshold: 7.5
+  check_interval: 300  # seconds

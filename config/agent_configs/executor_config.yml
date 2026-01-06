@@ -1,0 +1,27 @@
+"""Configuration for Executor Agent."""
+
+agent_id: executor_agent
+agent_type: operational
+
+# Execution Configuration
+execution:
+  parallel_tasks: 5
+  timeout_per_task: 300  # seconds
+  retry_count: 3
+  retry_delay: 5  # seconds
+
+# Data Collection
+data_collection:
+  sources:
+    - news_apis
+    - social_media
+    - company_reports
+  batch_processing: true
+  batch_size: 50
+
+# Performance Parameters
+performance:
+  max_concurrent_requests: 10
+  rate_limit: 1000  # requests per hour
+  cache_enabled: true
+  cache_ttl: 3600  # seconds

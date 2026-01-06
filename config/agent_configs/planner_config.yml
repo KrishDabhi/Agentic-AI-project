@@ -1,0 +1,22 @@
+"""Configuration for Planner Agent."""
+
+agent_id: planner_agent
+agent_type: strategic
+
+# Planning Configuration
+planning:
+  strategy_type: hierarchical
+  decomposition_depth: 3
+  task_prioritization: true
+
+# Thresholds
+thresholds:
+  minimum_companies: 1
+  maximum_companies: 100
+  minimum_dimensions: 1
+
+# Planning Parameters
+parameters:
+  planning_horizon: 30  # days
+  review_frequency: 7   # days
+  confidence_threshold: 0.85
