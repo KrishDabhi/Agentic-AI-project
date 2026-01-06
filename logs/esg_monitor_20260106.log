@@ -43,3 +43,48 @@
 2026-01-06 18:44:31 - models.esg_scoring - INFO - Batch scored 5 incidents
 2026-01-06 18:44:31 - __main__ - INFO - Step 5: Risk Assessment
 2026-01-06 18:44:31 - __main__ - INFO - Monitoring cycle completed
+2026-01-06 21:20:29 - utils.config_loader - INFO - Loaded configuration from config/settings.yml
+2026-01-06 21:20:29 - utils.config_loader - ERROR - Error parsing YAML file: expected '<document start>', but found '<scalar>'
+  in "config\agent_configs\executor_config.yml", line 1, column 3
+2026-01-06 21:20:29 - utils.config_loader - INFO - Loaded config for executor
+2026-01-06 21:20:29 - utils.config_loader - ERROR - Error parsing YAML file: expected '<document start>', but found '<scalar>'
+  in "config\agent_configs\planner_config.yml", line 1, column 3
+2026-01-06 21:20:29 - utils.config_loader - INFO - Loaded config for planner
+2026-01-06 21:20:29 - utils.config_loader - ERROR - Error parsing YAML file: expected '<document start>', but found '<scalar>'
+  in "config\agent_configs\validator_config.yml", line 1, column 3
+2026-01-06 21:20:29 - utils.config_loader - INFO - Loaded config for validator
+2026-01-06 21:20:29 - agents.planner_agent - INFO - Initialized planner_agent
+2026-01-06 21:20:29 - agents.executor_agent - INFO - Initialized executor_agent
+2026-01-06 21:20:29 - agents.validator_agent - INFO - Initialized validator_agent
+2026-01-06 21:20:29 - portfolio.dummy_portfolio - INFO - Initialized Dummy Portfolio
+2026-01-06 21:20:29 - portfolio.risk_calculator - INFO - Initialized Risk Calculator
+2026-01-06 21:20:29 - models.esg_scoring - INFO - Initialized ESG Scoring Model v1.0
+2026-01-06 21:20:29 - data.synthetic_generator - INFO - Initialized Synthetic Data Generator
+2026-01-06 21:20:29 - communication.rpc_handler - INFO - Initialized RPC Handler for planner
+2026-01-06 21:20:29 - communication.rpc_handler - INFO - Initialized RPC Handler for executor
+2026-01-06 21:20:29 - communication.rpc_handler - INFO - Initialized RPC Handler for validator
+2026-01-06 21:20:29 - communication.rpc_handler - INFO - Registered method: create_strategy
+2026-01-06 21:20:29 - communication.rpc_handler - INFO - Registered method: execute_task
+2026-01-06 21:20:29 - communication.rpc_handler - INFO - Registered method: validate_result
+2026-01-06 21:20:29 - __main__ - INFO - Registered RPC methods
+2026-01-06 21:20:29 - __main__ - INFO - Initialized Agent Coordinator
+2026-01-06 21:20:29 - __main__ - INFO - Starting monitoring cycle for ['TechCorp Industries', 'GreenEnergy Ltd', 'RetailGlobal Co'] - dimensions ['E', 'S', 'G']
+2026-01-06 21:20:29 - __main__ - INFO - Step 1: Planning
+2026-01-06 21:20:29 - agents.planner_agent - INFO - Strategy plan created: plan_001
+2026-01-06 21:20:29 - __main__ - INFO - Step 2: Execution
+2026-01-06 21:20:29 - agents.executor_agent - INFO - Executing task: TechCorp Industries_E_monitor
+2026-01-06 21:20:29 - agents.executor_agent - INFO - Executing task: TechCorp Industries_S_monitor
+2026-01-06 21:20:29 - agents.executor_agent - INFO - Executing task: TechCorp Industries_G_monitor
+2026-01-06 21:20:29 - agents.executor_agent - INFO - Executing task: GreenEnergy Ltd_E_monitor
+2026-01-06 21:20:29 - agents.executor_agent - INFO - Executing task: GreenEnergy Ltd_S_monitor
+2026-01-06 21:20:29 - __main__ - INFO - Step 3: Validation
+2026-01-06 21:20:29 - agents.validator_agent - INFO - Validation completed for task: TechCorp Industries_E_monitor
+2026-01-06 21:20:29 - agents.validator_agent - INFO - Validation completed for task: TechCorp Industries_S_monitor
+2026-01-06 21:20:29 - agents.validator_agent - INFO - Validation completed for task: TechCorp Industries_G_monitor
+2026-01-06 21:20:29 - agents.validator_agent - INFO - Validation completed for task: GreenEnergy Ltd_E_monitor
+2026-01-06 21:20:29 - agents.validator_agent - INFO - Validation completed for task: GreenEnergy Ltd_S_monitor
+2026-01-06 21:20:29 - __main__ - INFO - Step 4: ESG Scoring
+2026-01-06 21:20:29 - data.synthetic_generator - INFO - Generated 5 synthetic incidents
+2026-01-06 21:20:29 - models.esg_scoring - INFO - Batch scored 5 incidents
+2026-01-06 21:20:29 - __main__ - INFO - Step 5: Risk Assessment
+2026-01-06 21:20:29 - __main__ - INFO - Monitoring cycle completed

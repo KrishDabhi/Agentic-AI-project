@@ -1,0 +1,1001 @@
+symbol,name,sector,industry
+MSFT,Microsoft Corporation,Technology,Software—Infrastructure
+CRM,Salesforce Inc.,Technology,Software—Infrastructure
+ADBE,Adobe Inc.,Technology,Software—Application
+INTU,Intuit Inc.,Technology,Software—Application
+NVDA,NVIDIA Corporation,Technology,Semiconductors
+INTC,Intel Corporation,Technology,Semiconductors
+AMD,Advanced Micro Devices Inc.,Technology,Semiconductors
+AVGO,Broadcom Inc.,Technology,Semiconductors
+TXN,Texas Instruments Incorporated,Technology,Semiconductors
+QCOM,Qualcomm Incorporated,Technology,Semiconductors
+TSLA,Tesla Inc.,Consumer Discretionary,Auto Manufacturers
+GM,General Motors Company,Consumer Discretionary,Auto Manufacturers
+F,Ford Motor Company,Consumer Discretionary,Auto Manufacturers
+JPM,JPMorgan Chase & Co.,Financial Services,Banks—Diversified
+BAC,Bank of America Corp.,Financial Services,Banks—Diversified
+GS,The Goldman Sachs Group Inc.,Financial Services,Banks—Diversified
+C,Citigroup Inc.,Financial Services,Banks—Diversified
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers—General
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers—General
+MRK,Merck & Co. Inc.,Healthcare,Drug Manufacturers—General
+ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers—General
+LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers—General
+BMY,Bristol Myers Squibb Co.,Healthcare,Drug Manufacturers—General
+AMZN,Amazon.com Inc.,Consumer Discretionary,Internet Retail
+UNH,UnitedHealth Group Inc.,Healthcare,Health Care Plans
+CVS,CVS Health Corporation,Healthcare,Health Care Plans
+HD,Home Depot Inc.,Consumer Discretionary,Home Improvement Retail
+LOW,Lowe's Companies Inc.,Consumer Discretionary,Home Improvement Retail
+DIS,Walt Disney Co.,Communication Services,Entertainment
+NFLX,Netflix Inc.,Communication Services,Entertainment
+CMCSA,Comcast Corporation,Communication Services,Telecom Services
+VZ,Verizon Communications Inc.,Communication Services,Telecom Services
+T,AT&T Inc.,Communication Services,Telecom Services
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated
+CVX,Chevron Corporation,Energy,Oil & Gas Integrated
+NEE,NextEra Energy Inc.,Utilities,Utilities—Regulated Electric
+DUK,Duke Energy Corporation,Utilities,Utilities—Regulated Electric
+SO,Southern Company,Utilities,Utilities—Regulated Electric
+TMO,Thermo Fisher Scientific Inc.,Healthcare,Healthcare
+DHR,Danaher Corporation,Healthcare,Healthcare
+ISRG,Intuitive Surgical Inc.,Healthcare,Healthcare
+MDT,Medtronic plc,Healthcare,Healthcare
+AMGN,Amgen Inc.,Healthcare,Healthcare
+UTI,Orion Holdings,Technology,Software—Infrastructure
+TAG,Horizon Enterprises,Consumer Discretionary,Home Improvement Retail
+KQL,Aurora Corporation,Utilities,Utilities—Regulated Electric
+IJW,Aurora Technologies,Communication Services,Entertainment
+PBG,Aurora Group,Technology,Semiconductors
+LXQ,Orion Industries,Consumer Discretionary,Internet Retail
+BLV,Orion Holdings,Consumer Discretionary,Internet Retail
+AQM,Quantum Group,Technology,Semiconductors
+SYF,Orion Enterprises,Communication Services,Entertainment
+QMG,Vanta Enterprises,Healthcare,Healthcare
+SEN,Quantum Corporation,Communication Services,Entertainment
+FYG,Stellar Inc.,Consumer Discretionary,Internet Retail
+TUS,Stellar Group,Technology,Software—Infrastructure
+SLE,Vanta Enterprises,Utilities,Utilities—Regulated Electric
+UYS,Stellar Group,Technology,Software—Infrastructure
+KQZ,Stellar Inc.,Healthcare,Drug Manufacturers—General
+XVS,Stellar Holdings,Communication Services,Telecom Services
+CPN,Vertex Corporation,Consumer Discretionary,Internet Retail
+NOR,Pinnacle Group,Utilities,Utilities—Regulated Electric
+FBG,Quantum Inc.,Technology,Software—Application
+DQZ,Aurora Corporation,Healthcare,Health Care Plans
+CEY,Quantum Enterprises,Technology,Software—Infrastructure
+CSB,Vanta Enterprises,Technology,Software—Infrastructure
+FHO,Aurora Solutions,Healthcare,Health Care Plans
+BLW,Aurora Dynamics,Financial Services,Banks—Diversified
+NXY,Vanta Holdings,Financial Services,Banks—Diversified
+EQN,Quantum Inc.,Utilities,Utilities—Regulated Electric
+KIP,Nexus Enterprises,Utilities,Utilities—Regulated Electric
+NLK,Nexus Solutions,Technology,Software—Application
+MQT,Quantum Solutions,Communication Services,Entertainment
+NQV,Quantum Technologies,Communication Services,Entertainment
+JSU,Vanta Holdings,Healthcare,Health Care Plans
+BHP,Vanta Inc.,Communication Services,Entertainment
+TRO,Stellar Group,Communication Services,Entertainment
+VVX,Vertex Enterprises,Consumer Discretionary,Auto Manufacturers
+QPZ,Vanta Enterprises,Technology,Semiconductors
+PAJ,Vanta Corporation,Technology,Semiconductors
+EIV,Orion Solutions,Healthcare,Healthcare
+JTL,Nexus Holdings,Consumer Discretionary,Internet Retail
+GRI,Vanta Solutions,Financial Services,Banks—Diversified
+FPU,Horizon Corporation,Healthcare,Health Care Plans
+OVV,Vertex Solutions,Financial Services,Banks—Diversified
+TRN,Vanta Enterprises,Technology,Software—Infrastructure
+CEA,Quantum Inc.,Consumer Discretionary,Internet Retail
+SUY,Apex Industries,Energy,Oil & Gas Integrated
+UPX,Quantum Dynamics,Communication Services,Telecom Services
+KMJ,Quantum Holdings,Communication Services,Entertainment
+ANX,Vanta Holdings,Consumer Discretionary,Auto Manufacturers
+AFQ,Apex Industries,Healthcare,Health Care Plans
+IVN,Pinnacle Dynamics,Healthcare,Healthcare
+SVX,Nexus Enterprises,Healthcare,Health Care Plans
+NYX,Vertex Corporation,Financial Services,Banks—Diversified
+TYM,Quantum Technologies,Consumer Discretionary,Home Improvement Retail
+YFK,Pinnacle Inc.,Communication Services,Entertainment
+CVA,Horizon Group,Communication Services,Entertainment
+VXT,Nexus Systems,Consumer Discretionary,Auto Manufacturers
+ATL,Horizon Holdings,Healthcare,Drug Manufacturers—General
+VJX,Aurora Holdings,Energy,Oil & Gas Integrated
+GEV,Orion Systems,Consumer Discretionary,Home Improvement Retail
+BKS,Stellar Dynamics,Technology,Software—Application
+UNS,Vanta Holdings,Technology,Software—Application
+QJM,Vanta Dynamics,Consumer Discretionary,Internet Retail
+WWX,Orion Solutions,Financial Services,Banks—Diversified
+EPJ,Horizon Enterprises,Healthcare,Health Care Plans
+AIO,Apex Dynamics,Technology,Semiconductors
+SZA,Orion Systems,Technology,Software—Application
+PNU,Apex Technologies,Financial Services,Banks—Diversified
+XRU,Aurora Industries,Communication Services,Entertainment
+IJZ,Apex Solutions,Communication Services,Telecom Services
+MJL,Aurora Inc.,Technology,Software—Infrastructure
+PHA,Pinnacle Industries,Technology,Software—Infrastructure
+RTI,Pinnacle Solutions,Consumer Discretionary,Home Improvement Retail
+BME,Orion Industries,Healthcare,Drug Manufacturers—General
+LAU,Horizon Industries,Healthcare,Drug Manufacturers—General
+GQA1,Nexus Dynamics,Technology,Software—Infrastructure
+ZYQ,Vertex Technologies,Healthcare,Drug Manufacturers—General
+OTY,Stellar Inc.,Healthcare,Healthcare
+VZH,Vertex Dynamics,Healthcare,Healthcare
+LRF,Vanta Group,Communication Services,Entertainment
+VKH,Nexus Corporation,Healthcare,Health Care Plans
+QBW,Stellar Enterprises,Healthcare,Drug Manufacturers—General
+YCY,Stellar Technologies,Technology,Software—Infrastructure
+QSK,Horizon Group,Consumer Discretionary,Home Improvement Retail
+MMX,Vertex Holdings,Energy,Oil & Gas Integrated
+FAQ,Apex Industries,Utilities,Utilities—Regulated Electric
+XLA,Aurora Group,Consumer Discretionary,Auto Manufacturers
+SNP,Pinnacle Technologies,Utilities,Utilities—Regulated Electric
+JRS,Apex Systems,Technology,Semiconductors
+RMQ,Stellar Inc.,Technology,Software—Application
+SAW,Nexus Enterprises,Consumer Discretionary,Internet Retail
+NSD,Pinnacle Group,Technology,Semiconductors
+XBX,Nexus Dynamics,Communication Services,Telecom Services
+BWP,Aurora Systems,Communication Services,Telecom Services
+QIT,Pinnacle Technologies,Technology,Software—Infrastructure
+RBP,Apex Dynamics,Consumer Discretionary,Internet Retail
+ZIA,Stellar Holdings,Healthcare,Health Care Plans
+HXG,Stellar Group,Healthcare,Health Care Plans
+QHN,Vertex Inc.,Technology,Software—Infrastructure
+VSK1,Horizon Dynamics,Communication Services,Telecom Services
+CPZ,Orion Enterprises,Technology,Software—Application
+RKG,Horizon Corporation,Healthcare,Healthcare
+TCY,Orion Enterprises,Healthcare,Healthcare
+JTT,Orion Inc.,Healthcare,Health Care Plans
+DVN,Vanta Inc.,Communication Services,Entertainment
+TPX,Vanta Group,Healthcare,Healthcare
+XLX,Quantum Technologies,Utilities,Utilities—Regulated Electric
+XCI,Apex Corporation,Communication Services,Entertainment
+YKZ,Horizon Dynamics,Healthcare,Health Care Plans
+VQU,Horizon Holdings,Technology,Software—Application
+KNE,Horizon Systems,Healthcare,Drug Manufacturers—General
+JKI,Nexus Solutions,Technology,Software—Infrastructure
+YFZ,Orion Inc.,Healthcare,Drug Manufacturers—General
+HEO,Vanta Group,Communication Services,Entertainment
+CCI,Quantum Solutions,Financial Services,Banks—Diversified
+PNQ,Quantum Technologies,Healthcare,Drug Manufacturers—General
+BQO,Apex Dynamics,Consumer Discretionary,Home Improvement Retail
+MZU,Stellar Corporation,Healthcare,Healthcare
+EJP,Stellar Technologies,Communication Services,Telecom Services
+GEO,Horizon Industries,Energy,Oil & Gas Integrated
+UTF,Vertex Technologies,Technology,Software—Application
+UAS,Vanta Technologies,Consumer Discretionary,Auto Manufacturers
+HCE,Horizon Holdings,Communication Services,Telecom Services
+XJL,Horizon Corporation,Healthcare,Health Care Plans
+XBB,Apex Systems,Communication Services,Entertainment
+CAM,Stellar Holdings,Communication Services,Entertainment
+BPA,Apex Inc.,Financial Services,Banks—Diversified
+IHG,Orion Corporation,Financial Services,Banks—Diversified
+QUG,Stellar Technologies,Utilities,Utilities—Regulated Electric
+OTV,Vertex Holdings,Utilities,Utilities—Regulated Electric
+ONQ,Pinnacle Solutions,Consumer Discretionary,Auto Manufacturers
+YGN,Orion Systems,Energy,Oil & Gas Integrated
+MZA,Pinnacle Inc.,Healthcare,Health Care Plans
+DLA,Quantum Technologies,Energy,Oil & Gas Integrated
+IMK,Orion Holdings,Utilities,Utilities—Regulated Electric
+NBY,Orion Inc.,Communication Services,Entertainment
+WYN,Horizon Enterprises,Technology,Software—Application
+RBW,Nexus Technologies,Healthcare,Healthcare
+ULJ,Horizon Holdings,Technology,Semiconductors
+FTL,Orion Technologies,Consumer Discretionary,Home Improvement Retail
+FLR,Aurora Group,Utilities,Utilities—Regulated Electric
+KQN,Stellar Inc.,Healthcare,Health Care Plans
+HHD,Apex Solutions,Healthcare,Health Care Plans
+NVQ,Nexus Systems,Communication Services,Telecom Services
+BQR,Pinnacle Systems,Communication Services,Telecom Services
+FQO,Quantum Enterprises,Healthcare,Healthcare
+MIY,Vertex Holdings,Consumer Discretionary,Internet Retail
+RKK,Vertex Systems,Technology,Semiconductors
+YHD,Pinnacle Industries,Consumer Discretionary,Internet Retail
+CIM,Aurora Industries,Consumer Discretionary,Internet Retail
+PZV,Pinnacle Dynamics,Consumer Discretionary,Internet Retail
+ZAA,Apex Holdings,Consumer Discretionary,Home Improvement Retail
+WQN,Orion Industries,Technology,Software—Application
+QBO,Aurora Inc.,Consumer Discretionary,Home Improvement Retail
+ITK,Quantum Dynamics,Communication Services,Entertainment
+GPN1,Vanta Enterprises,Utilities,Utilities—Regulated Electric
+YXO,Horizon Corporation,Technology,Semiconductors
+IAI,Apex Inc.,Consumer Discretionary,Auto Manufacturers
+LBS,Stellar Group,Consumer Discretionary,Internet Retail
+DQU,Vanta Corporation,Utilities,Utilities—Regulated Electric
+QOQ,Orion Solutions,Technology,Software—Application
+LBO,Nexus Technologies,Utilities,Utilities—Regulated Electric
+WWW,Orion Industries,Communication Services,Telecom Services
+GAO,Nexus Industries,Technology,Software—Application
+VYO,Horizon Systems,Healthcare,Healthcare
+GTN,Quantum Solutions,Technology,Semiconductors
+NKE,Apex Group,Consumer Discretionary,Home Improvement Retail
+ZCD,Pinnacle Dynamics,Communication Services,Telecom Services
+KZI,Quantum Inc.,Communication Services,Telecom Services
+IOH,Vanta Enterprises,Consumer Discretionary,Auto Manufacturers
+SUX,Quantum Systems,Technology,Semiconductors
+SPC,Vertex Dynamics,Technology,Software—Infrastructure
+PDE,Vertex Enterprises,Communication Services,Telecom Services
+DXX,Pinnacle Dynamics,Communication Services,Telecom Services
+TXJ,Orion Inc.,Consumer Discretionary,Internet Retail
+QNF,Aurora Holdings,Financial Services,Banks—Diversified
+CLZ,Vertex Industries,Utilities,Utilities—Regulated Electric
+TBQ,Stellar Group,Consumer Discretionary,Home Improvement Retail
+IYN,Quantum Enterprises,Healthcare,Drug Manufacturers—General
+PKN,Apex Systems,Healthcare,Health Care Plans
+PMS,Apex Systems,Energy,Oil & Gas Integrated
+MSM,Vertex Inc.,Communication Services,Telecom Services
+SUQ,Vanta Solutions,Healthcare,Health Care Plans
+LGD,Quantum Technologies,Utilities,Utilities—Regulated Electric
+HBZ,Nexus Corporation,Consumer Discretionary,Internet Retail
+YUK,Quantum Group,Technology,Software—Application
+RKT,Stellar Solutions,Communication Services,Entertainment
+KFM,Vertex Enterprises,Communication Services,Telecom Services
+XDJ,Apex Group,Financial Services,Banks—Diversified
+AMP,Aurora Industries,Communication Services,Telecom Services
+OXF,Vanta Group,Communication Services,Entertainment
+RZQ,Stellar Dynamics,Healthcare,Healthcare
+ATT,Apex Systems,Utilities,Utilities—Regulated Electric
+WMF,Vanta Industries,Healthcare,Health Care Plans
+OTS,Orion Dynamics,Healthcare,Healthcare
+RAV,Orion Holdings,Consumer Discretionary,Internet Retail
+ZHG,Quantum Corporation,Technology,Software—Application
+CWR,Vanta Corporation,Financial Services,Banks—Diversified
+GYA,Vanta Solutions,Healthcare,Healthcare
+IOI,Horizon Inc.,Consumer Discretionary,Internet Retail
+WWK,Stellar Systems,Technology,Semiconductors
+WUR,Horizon Inc.,Utilities,Utilities—Regulated Electric
+KON,Orion Group,Healthcare,Healthcare
+LSF,Orion Holdings,Healthcare,Health Care Plans
+WZF,Orion Solutions,Consumer Discretionary,Home Improvement Retail
+YRO,Horizon Enterprises,Utilities,Utilities—Regulated Electric
+EQA,Vertex Corporation,Communication Services,Telecom Services
+OFA,Apex Solutions,Energy,Oil & Gas Integrated
+PCE,Quantum Holdings,Technology,Software—Application
+KBJ,Orion Corporation,Consumer Discretionary,Auto Manufacturers
+GIC,Orion Inc.,Energy,Oil & Gas Integrated
+MVE,Vertex Corporation,Healthcare,Healthcare
+PXW,Orion Enterprises,Consumer Discretionary,Internet Retail
+CHT,Horizon Corporation,Energy,Oil & Gas Integrated
+ZFT,Horizon Group,Communication Services,Entertainment
+HHC,Orion Inc.,Technology,Semiconductors
+QVL,Pinnacle Enterprises,Utilities,Utilities—Regulated Electric
+JFZ,Nexus Holdings,Utilities,Utilities—Regulated Electric
+CHE,Pinnacle Dynamics,Energy,Oil & Gas Integrated
+RYS,Nexus Industries,Technology,Software—Infrastructure
+YXK,Vertex Systems,Consumer Discretionary,Internet Retail
+GGK,Stellar Inc.,Financial Services,Banks—Diversified
+XMS,Quantum Group,Technology,Software—Application
+SJY,Apex Holdings,Energy,Oil & Gas Integrated
+MQH,Nexus Group,Technology,Software—Infrastructure
+JYI,Vertex Corporation,Healthcare,Health Care Plans
+YAR,Stellar Enterprises,Energy,Oil & Gas Integrated
+UZF,Vertex Holdings,Healthcare,Drug Manufacturers—General
+RNI,Vertex Holdings,Communication Services,Telecom Services
+JZW,Vanta Corporation,Financial Services,Banks—Diversified
+EKH,Apex Systems,Healthcare,Healthcare
+LRH,Horizon Solutions,Communication Services,Telecom Services
+NHP,Apex Inc.,Technology,Software—Infrastructure
+AEJ,Stellar Dynamics,Consumer Discretionary,Auto Manufacturers
+IHM,Apex Inc.,Communication Services,Entertainment
+GCH,Quantum Corporation,Technology,Semiconductors
+FTY,Stellar Group,Energy,Oil & Gas Integrated
+CYG,Apex Technologies,Consumer Discretionary,Auto Manufacturers
+WEL,Orion Technologies,Healthcare,Healthcare
+BCV,Orion Industries,Healthcare,Drug Manufacturers—General
+KFL,Apex Inc.,Technology,Semiconductors
+WNB,Quantum Inc.,Utilities,Utilities—Regulated Electric
+YAK,Horizon Group,Communication Services,Telecom Services
+PAG,Orion Inc.,Technology,Software—Application
+NWQ,Quantum Group,Healthcare,Drug Manufacturers—General
+NAU,Horizon Group,Consumer Discretionary,Auto Manufacturers
+WMK,Pinnacle Group,Technology,Software—Infrastructure
+JQJ,Nexus Technologies,Financial Services,Banks—Diversified
+ZMI,Vertex Holdings,Consumer Discretionary,Home Improvement Retail
+FGM,Vertex Technologies,Energy,Oil & Gas Integrated
+XDR,Aurora Systems,Healthcare,Healthcare
+RTB,Nexus Industries,Healthcare,Health Care Plans
+XBO,Horizon Solutions,Healthcare,Health Care Plans
+PEP,Aurora Dynamics,Consumer Discretionary,Internet Retail
+GWF,Vanta Systems,Healthcare,Healthcare
+PJN,Nexus Enterprises,Consumer Discretionary,Internet Retail
+GZB,Vanta Corporation,Healthcare,Healthcare
+PUZ,Pinnacle Group,Consumer Discretionary,Auto Manufacturers
+TIZ,Vanta Group,Energy,Oil & Gas Integrated
+FTC,Vanta Group,Consumer Discretionary,Auto Manufacturers
+KFW,Orion Dynamics,Energy,Oil & Gas Integrated
+HMJ,Vertex Industries,Technology,Software—Application
+PIT,Horizon Inc.,Consumer Discretionary,Home Improvement Retail
+EWV,Pinnacle Technologies,Communication Services,Entertainment
+CLX,Quantum Inc.,Utilities,Utilities—Regulated Electric
+XET,Horizon Technologies,Communication Services,Telecom Services
+CMT,Pinnacle Systems,Technology,Software—Application
+LXE,Horizon Solutions,Energy,Oil & Gas Integrated
+BQN,Vanta Solutions,Healthcare,Health Care Plans
+KSR,Vanta Systems,Healthcare,Healthcare
+XYO,Apex Solutions,Energy,Oil & Gas Integrated
+SCZ,Vanta Group,Technology,Semiconductors
+IAF,Pinnacle Group,Consumer Discretionary,Auto Manufacturers
+QJL,Quantum Technologies,Communication Services,Entertainment
+PAN,Stellar Inc.,Healthcare,Health Care Plans
+JNF,Aurora Corporation,Energy,Oil & Gas Integrated
+ENL,Stellar Technologies,Healthcare,Drug Manufacturers—General
+LSY,Vertex Group,Communication Services,Entertainment
+AWL,Orion Industries,Healthcare,Healthcare
+ZNW,Aurora Inc.,Healthcare,Drug Manufacturers—General
+WFD,Apex Corporation,Consumer Discretionary,Home Improvement Retail
+MVI,Stellar Corporation,Technology,Software—Application
+XGS,Stellar Holdings,Technology,Semiconductors
+HGP,Horizon Enterprises,Energy,Oil & Gas Integrated
+FDL,Orion Industries,Consumer Discretionary,Home Improvement Retail
+KIQ,Vanta Corporation,Technology,Software—Application
+KKJ,Vertex Holdings,Communication Services,Entertainment
+ZBM,Stellar Group,Consumer Discretionary,Internet Retail
+RGG,Aurora Corporation,Healthcare,Drug Manufacturers—General
+EHL,Vertex Solutions,Healthcare,Drug Manufacturers—General
+LNK,Horizon Inc.,Consumer Discretionary,Auto Manufacturers
+XTP,Vanta Corporation,Energy,Oil & Gas Integrated
+QPF,Horizon Holdings,Healthcare,Drug Manufacturers—General
+JEY,Quantum Corporation,Energy,Oil & Gas Integrated
+JDO,Quantum Corporation,Utilities,Utilities—Regulated Electric
+MGR,Vertex Industries,Technology,Software—Application
+EPK,Quantum Industries,Technology,Semiconductors
+JDV,Quantum Technologies,Healthcare,Healthcare
+OXV,Vertex Enterprises,Communication Services,Telecom Services
+JTO1,Aurora Industries,Healthcare,Health Care Plans
+PHZ,Stellar Industries,Technology,Software—Infrastructure
+JLF,Nexus Dynamics,Utilities,Utilities—Regulated Electric
+QMW,Stellar Technologies,Technology,Software—Infrastructure
+XFS,Pinnacle Inc.,Financial Services,Banks—Diversified
+HRT,Nexus Holdings,Consumer Discretionary,Home Improvement Retail
+QRG,Quantum Holdings,Consumer Discretionary,Home Improvement Retail
+ULN,Orion Technologies,Technology,Semiconductors
+LKE,Pinnacle Technologies,Communication Services,Telecom Services
+IDE,Apex Inc.,Communication Services,Entertainment
+CMI,Aurora Technologies,Consumer Discretionary,Auto Manufacturers
+TFM,Vertex Holdings,Technology,Software—Infrastructure
+JJG,Pinnacle Systems,Consumer Discretionary,Auto Manufacturers
+QFR,Vertex Industries,Communication Services,Entertainment
+EXB,Nexus Enterprises,Energy,Oil & Gas Integrated
+TOD,Vanta Dynamics,Healthcare,Health Care Plans
+IQB,Aurora Industries,Healthcare,Healthcare
+XLT,Quantum Technologies,Communication Services,Telecom Services
+NBH,Aurora Holdings,Utilities,Utilities—Regulated Electric
+TTL,Orion Group,Technology,Software—Application
+LKX,Horizon Inc.,Communication Services,Entertainment
+AVT,Quantum Inc.,Utilities,Utilities—Regulated Electric
+LEN,Aurora Systems,Technology,Software—Infrastructure
+BIP,Pinnacle Technologies,Consumer Discretionary,Internet Retail
+TCS,Quantum Group,Utilities,Utilities—Regulated Electric
+AXZ,Nexus Industries,Healthcare,Healthcare
+ZFD,Orion Dynamics,Utilities,Utilities—Regulated Electric
+WTA,Nexus Corporation,Consumer Discretionary,Home Improvement Retail
+VTT,Orion Technologies,Healthcare,Drug Manufacturers—General
+QIX,Vertex Enterprises,Financial Services,Banks—Diversified
+OKZ,Pinnacle Group,Energy,Oil & Gas Integrated
+LXU,Nexus Solutions,Technology,Semiconductors
+LRD1,Aurora Enterprises,Technology,Software—Application
+NCO,Stellar Technologies,Financial Services,Banks—Diversified
+NOK,Quantum Solutions,Energy,Oil & Gas Integrated
+QLD,Orion Industries,Technology,Semiconductors
+LUG,Quantum Systems,Healthcare,Drug Manufacturers—General
+DUO,Orion Enterprises,Technology,Semiconductors
+EBG,Nexus Inc.,Technology,Software—Application
+HNB,Nexus Solutions,Energy,Oil & Gas Integrated
+FBM1,Stellar Systems,Financial Services,Banks—Diversified
+YTN,Aurora Group,Communication Services,Entertainment
+JWI,Vertex Technologies,Healthcare,Healthcare
+IHQ,Apex Corporation,Consumer Discretionary,Home Improvement Retail
+TLB,Aurora Enterprises,Technology,Semiconductors
+CBX,Vertex Technologies,Communication Services,Telecom Services
+DER,Stellar Enterprises,Consumer Discretionary,Home Improvement Retail
+QPV,Stellar Holdings,Financial Services,Banks—Diversified
+HYK,Nexus Technologies,Utilities,Utilities—Regulated Electric
+IIO,Aurora Enterprises,Consumer Discretionary,Auto Manufacturers
+ITO,Horizon Inc.,Energy,Oil & Gas Integrated
+WOK,Pinnacle Dynamics,Technology,Semiconductors
+RZM,Stellar Dynamics,Financial Services,Banks—Diversified
+PZU,Nexus Industries,Technology,Software—Infrastructure
+VEF,Pinnacle Group,Healthcare,Healthcare
+IHB,Horizon Systems,Healthcare,Drug Manufacturers—General
+RVA,Aurora Systems,Technology,Software—Application
+WZH,Pinnacle Systems,Consumer Discretionary,Internet Retail
+XBK,Orion Industries,Consumer Discretionary,Auto Manufacturers
+SAO,Nexus Systems,Consumer Discretionary,Auto Manufacturers
+GZI,Nexus Systems,Energy,Oil & Gas Integrated
+DJZ,Vertex Technologies,Technology,Software—Infrastructure
+ROS,Aurora Inc.,Technology,Semiconductors
+PZI,Quantum Solutions,Technology,Software—Application
+UGE,Nexus Holdings,Technology,Software—Application
+FYU,Orion Solutions,Consumer Discretionary,Internet Retail
+NMI,Vanta Holdings,Healthcare,Health Care Plans
+YYY,Aurora Group,Consumer Discretionary,Auto Manufacturers
+SLA,Orion Dynamics,Healthcare,Health Care Plans
+PXB,Stellar Enterprises,Healthcare,Healthcare
+URE,Vanta Holdings,Technology,Software—Infrastructure
+XXH,Horizon Dynamics,Healthcare,Drug Manufacturers—General
+THI,Aurora Inc.,Communication Services,Telecom Services
+GOT,Apex Dynamics,Technology,Software—Infrastructure
+AGX,Apex Technologies,Energy,Oil & Gas Integrated
+XSN,Apex Technologies,Consumer Discretionary,Internet Retail
+UES,Aurora Group,Consumer Discretionary,Internet Retail
+QPK,Quantum Corporation,Communication Services,Telecom Services
+ZYB,Apex Industries,Communication Services,Entertainment
+GMV,Aurora Dynamics,Utilities,Utilities—Regulated Electric
+FKZ,Vertex Group,Healthcare,Health Care Plans
+CBZ,Vanta Holdings,Technology,Semiconductors
+RZY,Vanta Enterprises,Healthcare,Drug Manufacturers—General
+TVP,Vanta Inc.,Financial Services,Banks—Diversified
+TRC,Quantum Inc.,Energy,Oil & Gas Integrated
+EUR,Orion Corporation,Technology,Semiconductors
+TWH,Apex Corporation,Technology,Software—Infrastructure
+PUI,Quantum Enterprises,Utilities,Utilities—Regulated Electric
+RMG,Horizon Systems,Consumer Discretionary,Home Improvement Retail
+WHO,Aurora Dynamics,Communication Services,Entertainment
+QLS,Quantum Systems,Healthcare,Health Care Plans
+UYN,Orion Industries,Energy,Oil & Gas Integrated
+IIV,Pinnacle Enterprises,Technology,Software—Application
+UHR,Apex Group,Consumer Discretionary,Home Improvement Retail
+QVW,Vanta Systems,Financial Services,Banks—Diversified
+AGD,Vanta Group,Consumer Discretionary,Auto Manufacturers
+MMH,Apex Solutions,Technology,Semiconductors
+IRY,Stellar Group,Consumer Discretionary,Auto Manufacturers
+OUB,Vanta Inc.,Consumer Discretionary,Internet Retail
+RZE,Vanta Systems,Consumer Discretionary,Internet Retail
+QDC,Aurora Enterprises,Healthcare,Health Care Plans
+DYV,Vertex Holdings,Financial Services,Banks—Diversified
+EHF,Aurora Holdings,Healthcare,Drug Manufacturers—General
+LMY,Vanta Systems,Financial Services,Banks—Diversified
+TTF,Quantum Holdings,Healthcare,Drug Manufacturers—General
+MCV,Nexus Inc.,Healthcare,Health Care Plans
+FFK,Vertex Enterprises,Healthcare,Health Care Plans
+WSU,Orion Enterprises,Consumer Discretionary,Auto Manufacturers
+HRB1,Aurora Dynamics,Healthcare,Health Care Plans
+UXN,Nexus Enterprises,Technology,Software—Application
+EGX,Horizon Holdings,Communication Services,Telecom Services
+GSJ,Horizon Enterprises,Technology,Semiconductors
+ZQZ,Pinnacle Corporation,Financial Services,Banks—Diversified
+TCQ,Aurora Enterprises,Communication Services,Telecom Services
+TEU,Vertex Corporation,Technology,Software—Infrastructure
+KHN,Vertex Holdings,Healthcare,Health Care Plans
+FDX,Horizon Dynamics,Consumer Discretionary,Internet Retail
+OOU,Apex Enterprises,Communication Services,Entertainment
+SNA,Stellar Enterprises,Utilities,Utilities—Regulated Electric
+PCM,Pinnacle Technologies,Energy,Oil & Gas Integrated
+BGP,Apex Corporation,Consumer Discretionary,Home Improvement Retail
+NRI,Apex Enterprises,Communication Services,Entertainment
+RZR,Horizon Systems,Consumer Discretionary,Internet Retail
+MGG,Apex Holdings,Consumer Discretionary,Auto Manufacturers
+IXZ,Aurora Group,Technology,Software—Infrastructure
+RRH,Stellar Systems,Technology,Software—Infrastructure
+BCN,Stellar Solutions,Consumer Discretionary,Auto Manufacturers
+ONR,Quantum Systems,Financial Services,Banks—Diversified
+MTN,Nexus Inc.,Consumer Discretionary,Home Improvement Retail
+GRK,Pinnacle Dynamics,Technology,Semiconductors
+BJS,Vertex Technologies,Financial Services,Banks—Diversified
+OCD,Pinnacle Systems,Communication Services,Entertainment
+OMG,Aurora Inc.,Technology,Semiconductors
+OQN,Vanta Technologies,Communication Services,Entertainment
+KMT,Nexus Systems,Healthcare,Healthcare
+IPT,Horizon Industries,Healthcare,Health Care Plans
+QOX,Vertex Dynamics,Utilities,Utilities—Regulated Electric
+MNT,Apex Enterprises,Healthcare,Healthcare
+MTV,Aurora Holdings,Healthcare,Healthcare
+ARN,Pinnacle Holdings,Technology,Software—Application
+GTE,Horizon Industries,Technology,Software—Infrastructure
+BRO,Pinnacle Industries,Communication Services,Telecom Services
+FDF,Quantum Inc.,Energy,Oil & Gas Integrated
+YWX,Nexus Corporation,Healthcare,Healthcare
+LSX,Horizon Holdings,Technology,Software—Infrastructure
+ORY,Aurora Dynamics,Utilities,Utilities—Regulated Electric
+OEW,Orion Group,Communication Services,Telecom Services
+WGE,Apex Dynamics,Consumer Discretionary,Home Improvement Retail
+XWX,Pinnacle Group,Technology,Software—Infrastructure
+AYP,Nexus Group,Consumer Discretionary,Internet Retail
+UYD,Stellar Solutions,Consumer Discretionary,Home Improvement Retail
+MMQ,Vanta Solutions,Communication Services,Entertainment
+DBB,Nexus Holdings,Utilities,Utilities—Regulated Electric
+CJI,Orion Holdings,Healthcare,Drug Manufacturers—General
+VQF,Vertex Technologies,Healthcare,Health Care Plans
+QUR,Pinnacle Holdings,Technology,Software—Infrastructure
+MWU,Aurora Technologies,Financial Services,Banks—Diversified
+WUQ,Pinnacle Corporation,Utilities,Utilities—Regulated Electric
+ZGG,Aurora Enterprises,Technology,Semiconductors
+RAA,Nexus Dynamics,Financial Services,Banks—Diversified
+DNS,Vanta Holdings,Technology,Software—Application
+GVN,Aurora Dynamics,Healthcare,Health Care Plans
+DTI,Quantum Dynamics,Healthcare,Healthcare
+NMY,Horizon Holdings,Technology,Semiconductors
+ZSP,Vertex Solutions,Healthcare,Health Care Plans
+IKH,Apex Systems,Financial Services,Banks—Diversified
+VDZ,Horizon Holdings,Financial Services,Banks—Diversified
+IKS,Quantum Systems,Utilities,Utilities—Regulated Electric
+GQU,Vanta Inc.,Technology,Software—Application
+VUM,Orion Group,Healthcare,Healthcare
+SVB,Stellar Technologies,Consumer Discretionary,Home Improvement Retail
+NOB,Aurora Holdings,Technology,Semiconductors
+SYX,Apex Corporation,Technology,Software—Infrastructure
+YFX,Stellar Technologies,Communication Services,Entertainment
+VMD,Vanta Technologies,Technology,Semiconductors
+RDL,Aurora Inc.,Technology,Semiconductors
+FWP1,Nexus Enterprises,Healthcare,Healthcare
+ILR,Pinnacle Enterprises,Consumer Discretionary,Internet Retail
+DTE,Orion Solutions,Healthcare,Healthcare
+XWG,Apex Systems,Utilities,Utilities—Regulated Electric
+HWH,Orion Holdings,Energy,Oil & Gas Integrated
+YLI,Pinnacle Solutions,Consumer Discretionary,Home Improvement Retail
+VSI,Horizon Group,Healthcare,Health Care Plans
+ZST,Nexus Holdings,Healthcare,Drug Manufacturers—General
+WQT,Quantum Inc.,Consumer Discretionary,Home Improvement Retail
+VAG,Aurora Inc.,Technology,Software—Infrastructure
+AOY,Apex Enterprises,Utilities,Utilities—Regulated Electric
+BUQ,Pinnacle Technologies,Financial Services,Banks—Diversified
+QHW,Horizon Group,Healthcare,Healthcare
+WJO,Vanta Group,Utilities,Utilities—Regulated Electric
+YWL,Vertex Corporation,Communication Services,Entertainment
+RBS,Pinnacle Inc.,Communication Services,Entertainment
+ZBA,Nexus Group,Healthcare,Drug Manufacturers—General
+WYF,Apex Group,Energy,Oil & Gas Integrated
+UOO,Quantum Industries,Energy,Oil & Gas Integrated
+RJS,Nexus Dynamics,Healthcare,Drug Manufacturers—General
+XUG,Horizon Industries,Communication Services,Telecom Services
+IXF,Apex Dynamics,Technology,Software—Infrastructure
+WCD,Quantum Holdings,Communication Services,Entertainment
+MZR,Quantum Corporation,Financial Services,Banks—Diversified
+GEY,Orion Corporation,Utilities,Utilities—Regulated Electric
+NCX,Quantum Technologies,Communication Services,Telecom Services
+YVL1,Horizon Corporation,Technology,Semiconductors
+VPI,Apex Group,Communication Services,Telecom Services
+DQF,Aurora Solutions,Technology,Software—Infrastructure
+EGK,Vertex Corporation,Consumer Discretionary,Internet Retail
+FNM,Quantum Technologies,Financial Services,Banks—Diversified
+IVU,Horizon Industries,Consumer Discretionary,Home Improvement Retail
+AAV,Stellar Dynamics,Utilities,Utilities—Regulated Electric
+UHY,Quantum Corporation,Financial Services,Banks—Diversified
+OTL,Orion Solutions,Healthcare,Drug Manufacturers—General
+TUN,Quantum Dynamics,Consumer Discretionary,Auto Manufacturers
+ROA,Horizon Enterprises,Energy,Oil & Gas Integrated
+BKB,Nexus Corporation,Healthcare,Health Care Plans
+YGF,Quantum Solutions,Technology,Software—Infrastructure
+PXK,Stellar Technologies,Consumer Discretionary,Home Improvement Retail
+JQT,Quantum Holdings,Consumer Discretionary,Home Improvement Retail
+KTS,Apex Group,Healthcare,Healthcare
+IZW,Pinnacle Solutions,Healthcare,Drug Manufacturers—General
+KWV,Orion Enterprises,Healthcare,Healthcare
+BLC,Apex Dynamics,Consumer Discretionary,Auto Manufacturers
+UUR,Stellar Systems,Healthcare,Drug Manufacturers—General
+JTP,Horizon Solutions,Healthcare,Drug Manufacturers—General
+NII,Apex Holdings,Technology,Software—Infrastructure
+YDJ,Horizon Group,Communication Services,Telecom Services
+TOF,Apex Solutions,Energy,Oil & Gas Integrated
+NAM,Vertex Holdings,Consumer Discretionary,Auto Manufacturers
+VGN,Aurora Dynamics,Technology,Semiconductors
+DVG,Apex Holdings,Energy,Oil & Gas Integrated
+ULG,Quantum Group,Technology,Semiconductors
+SOF,Quantum Group,Utilities,Utilities—Regulated Electric
+FEA,Aurora Enterprises,Utilities,Utilities—Regulated Electric
+NLH,Apex Industries,Consumer Discretionary,Internet Retail
+LAI,Pinnacle Enterprises,Healthcare,Health Care Plans
+XNB,Vertex Industries,Technology,Semiconductors
+DHY,Nexus Enterprises,Technology,Software—Infrastructure
+MNF,Vertex Enterprises,Technology,Software—Infrastructure
+QTI,Aurora Dynamics,Energy,Oil & Gas Integrated
+SYL,Pinnacle Solutions,Energy,Oil & Gas Integrated
+XQM,Nexus Industries,Consumer Discretionary,Auto Manufacturers
+ZYK,Vertex Enterprises,Healthcare,Health Care Plans
+BEG,Quantum Technologies,Financial Services,Banks—Diversified
+KKD,Aurora Industries,Technology,Software—Infrastructure
+ZKB,Quantum Corporation,Consumer Discretionary,Auto Manufacturers
+ITY,Stellar Inc.,Utilities,Utilities—Regulated Electric
+ENG,Apex Group,Communication Services,Entertainment
+YMM,Pinnacle Inc.,Healthcare,Healthcare
+QLB,Stellar Dynamics,Financial Services,Banks—Diversified
+TOJ,Orion Technologies,Communication Services,Telecom Services
+EKR,Vanta Enterprises,Communication Services,Telecom Services
+MLX,Horizon Group,Healthcare,Health Care Plans
+LVC,Quantum Systems,Financial Services,Banks—Diversified
+YDP,Orion Technologies,Communication Services,Telecom Services
+PIC,Stellar Group,Healthcare,Healthcare
+HWM,Aurora Dynamics,Consumer Discretionary,Home Improvement Retail
+GAL,Horizon Holdings,Technology,Software—Infrastructure
+KTM,Aurora Technologies,Technology,Software—Application
+OBS,Horizon Dynamics,Communication Services,Telecom Services
+DWA,Pinnacle Corporation,Communication Services,Entertainment
+AUZ,Nexus Solutions,Consumer Discretionary,Auto Manufacturers
+BQM,Quantum Inc.,Energy,Oil & Gas Integrated
+EXK,Orion Dynamics,Consumer Discretionary,Home Improvement Retail
+CQM,Horizon Technologies,Financial Services,Banks—Diversified
+KSG,Quantum Inc.,Communication Services,Telecom Services
+IGL,Vanta Solutions,Consumer Discretionary,Auto Manufacturers
+PEG,Apex Systems,Utilities,Utilities—Regulated Electric
+TOV,Pinnacle Holdings,Technology,Software—Application
+ZTY,Horizon Solutions,Healthcare,Health Care Plans
+KWX1,Horizon Solutions,Technology,Semiconductors
+YLQ,Horizon Holdings,Consumer Discretionary,Internet Retail
+FSS,Nexus Inc.,Consumer Discretionary,Auto Manufacturers
+QGX,Apex Dynamics,Communication Services,Entertainment
+IEN,Pinnacle Enterprises,Energy,Oil & Gas Integrated
+VIT,Horizon Enterprises,Communication Services,Telecom Services
+MQV,Nexus Holdings,Technology,Semiconductors
+MIS,Orion Inc.,Technology,Software—Infrastructure
+JSG,Vertex Systems,Communication Services,Entertainment
+MAR,Pinnacle Solutions,Consumer Discretionary,Auto Manufacturers
+TGF,Vanta Enterprises,Consumer Discretionary,Internet Retail
+AVI,Stellar Industries,Consumer Discretionary,Home Improvement Retail
+CXR,Apex Holdings,Communication Services,Entertainment
+APD,Apex Systems,Financial Services,Banks—Diversified
+AJS,Aurora Systems,Financial Services,Banks—Diversified
+NNC,Pinnacle Corporation,Consumer Discretionary,Internet Retail
+HQX,Quantum Industries,Communication Services,Entertainment
+GKM,Vanta Inc.,Communication Services,Telecom Services
+WEK,Aurora Technologies,Consumer Discretionary,Auto Manufacturers
+ROC,Nexus Group,Healthcare,Healthcare
+SPT,Aurora Holdings,Communication Services,Telecom Services
+KUP,Pinnacle Corporation,Consumer Discretionary,Internet Retail
+AQA,Stellar Corporation,Financial Services,Banks—Diversified
+VXR,Horizon Corporation,Technology,Software—Application
+BKE,Aurora Industries,Utilities,Utilities—Regulated Electric
+ABH,Aurora Group,Healthcare,Healthcare
+NPH,Horizon Group,Consumer Discretionary,Internet Retail
+NCU,Pinnacle Group,Financial Services,Banks—Diversified
+COU,Aurora Industries,Technology,Software—Application
+EJA1,Horizon Inc.,Technology,Software—Infrastructure
+FTJ,Apex Corporation,Consumer Discretionary,Internet Retail
+CPR,Pinnacle Holdings,Utilities,Utilities—Regulated Electric
+RQM,Horizon Industries,Healthcare,Healthcare
+BUJ,Quantum Holdings,Healthcare,Drug Manufacturers—General
+LQH,Quantum Inc.,Financial Services,Banks—Diversified
+NPR,Aurora Group,Energy,Oil & Gas Integrated
+XFF,Quantum Solutions,Communication Services,Entertainment
+DXK,Vertex Inc.,Utilities,Utilities—Regulated Electric
+BVN,Quantum Corporation,Energy,Oil & Gas Integrated
+CBA,Apex Enterprises,Communication Services,Entertainment
+EOV,Nexus Solutions,Energy,Oil & Gas Integrated
+YXJ,Stellar Group,Technology,Software—Application
+QCD,Quantum Holdings,Healthcare,Drug Manufacturers—General
+MCH,Orion Dynamics,Consumer Discretionary,Home Improvement Retail
+WOW,Vanta Systems,Healthcare,Health Care Plans
+ZGI,Apex Solutions,Healthcare,Drug Manufacturers—General
+IEM,Quantum Systems,Utilities,Utilities—Regulated Electric
+CVF,Aurora Holdings,Energy,Oil & Gas Integrated
+QUQ,Quantum Corporation,Consumer Discretionary,Auto Manufacturers
+VWX,Apex Dynamics,Consumer Discretionary,Internet Retail
+EMU,Nexus Inc.,Technology,Semiconductors
+QZM,Vanta Systems,Healthcare,Healthcare
+SWN,Aurora Technologies,Consumer Discretionary,Auto Manufacturers
+HWU,Nexus Technologies,Technology,Semiconductors
+HHH,Horizon Technologies,Technology,Software—Infrastructure
+MYK,Aurora Technologies,Consumer Discretionary,Home Improvement Retail
+JKD,Orion Corporation,Consumer Discretionary,Home Improvement Retail
+AEM,Vertex Corporation,Technology,Software—Infrastructure
+GVM,Orion Group,Utilities,Utilities—Regulated Electric
+NJP,Orion Enterprises,Healthcare,Drug Manufacturers—General
+OAM,Horizon Holdings,Healthcare,Health Care Plans
+WBM,Aurora Group,Consumer Discretionary,Internet Retail
+HAV,Stellar Enterprises,Healthcare,Healthcare
+QYN1,Pinnacle Corporation,Healthcare,Healthcare
+DEB,Pinnacle Holdings,Healthcare,Drug Manufacturers—General
+RJW,Orion Group,Consumer Discretionary,Home Improvement Retail
+PKX,Orion Inc.,Healthcare,Health Care Plans
+EOE,Horizon Enterprises,Consumer Discretionary,Home Improvement Retail
+SAE,Aurora Solutions,Technology,Software—Infrastructure
+JFU,Orion Industries,Utilities,Utilities—Regulated Electric
+HJL,Nexus Systems,Consumer Discretionary,Internet Retail
+SYZ,Orion Solutions,Consumer Discretionary,Internet Retail
+OFW,Stellar Systems,Communication Services,Telecom Services
+KIK,Quantum Dynamics,Technology,Software—Application
+VGD,Orion Corporation,Healthcare,Health Care Plans
+YTC,Vertex Dynamics,Consumer Discretionary,Home Improvement Retail
+FOL,Nexus Group,Technology,Semiconductors
+TBG,Stellar Holdings,Healthcare,Drug Manufacturers—General
+PXV,Quantum Technologies,Consumer Discretionary,Internet Retail
+ZFV,Horizon Holdings,Consumer Discretionary,Auto Manufacturers
+ZOR,Stellar Solutions,Utilities,Utilities—Regulated Electric
+LYJ,Pinnacle Solutions,Financial Services,Banks—Diversified
+HYP,Vanta Enterprises,Technology,Software—Application
+QAI,Horizon Holdings,Healthcare,Healthcare
+JMS,Apex Group,Utilities,Utilities—Regulated Electric
+XSC,Vertex Dynamics,Consumer Discretionary,Home Improvement Retail
+TUP,Aurora Inc.,Technology,Software—Application
+XCJ,Nexus Industries,Utilities,Utilities—Regulated Electric
+YXY,Orion Dynamics,Utilities,Utilities—Regulated Electric
+LDW,Aurora Group,Healthcare,Healthcare
+VUT1,Aurora Corporation,Technology,Software—Infrastructure
+YYR,Aurora Enterprises,Healthcare,Healthcare
+JRF,Aurora Group,Technology,Software—Application
+WJZ,Nexus Dynamics,Healthcare,Healthcare
+VKR,Vertex Solutions,Utilities,Utilities—Regulated Electric
+XMD,Aurora Holdings,Communication Services,Telecom Services
+YNH,Horizon Technologies,Energy,Oil & Gas Integrated
+ZVM,Horizon Industries,Technology,Software—Infrastructure
+XCU,Apex Systems,Technology,Semiconductors
+CHW,Vanta Group,Financial Services,Banks—Diversified
+RGA,Orion Technologies,Technology,Software—Infrastructure
+EVL,Aurora Enterprises,Healthcare,Health Care Plans
+ABT,Orion Solutions,Utilities,Utilities—Regulated Electric
+TSJ,Horizon Industries,Healthcare,Healthcare
+FPW,Horizon Enterprises,Consumer Discretionary,Home Improvement Retail
+JFC,Quantum Inc.,Technology,Software—Infrastructure
+RHI,Nexus Technologies,Healthcare,Healthcare
+BWT,Orion Inc.,Technology,Software—Infrastructure
+JBV,Stellar Inc.,Technology,Software—Application
+TGP,Orion Dynamics,Consumer Discretionary,Internet Retail
+CZF,Stellar Dynamics,Technology,Semiconductors
+YOQ,Quantum Holdings,Consumer Discretionary,Auto Manufacturers
+IGW,Quantum Group,Financial Services,Banks—Diversified
+DIN,Vanta Technologies,Utilities,Utilities—Regulated Electric
+DGX,Vertex Systems,Consumer Discretionary,Internet Retail
+KLW,Nexus Technologies,Technology,Software—Infrastructure
+QSG,Quantum Solutions,Technology,Software—Infrastructure
+JOY,Orion Holdings,Consumer Discretionary,Internet Retail
+TRW,Aurora Systems,Energy,Oil & Gas Integrated
+OAD,Horizon Technologies,Healthcare,Health Care Plans
+JPK,Pinnacle Group,Energy,Oil & Gas Integrated
+JCX,Stellar Group,Communication Services,Entertainment
+VNE,Pinnacle Corporation,Financial Services,Banks—Diversified
+QJA,Apex Solutions,Technology,Software—Infrastructure
+CWX,Stellar Systems,Healthcare,Drug Manufacturers—General
+UEA,Orion Group,Energy,Oil & Gas Integrated
+FAM,Vanta Technologies,Consumer Discretionary,Home Improvement Retail
+BBG,Apex Solutions,Consumer Discretionary,Internet Retail
+IRD,Horizon Holdings,Energy,Oil & Gas Integrated
+LQM,Quantum Solutions,Healthcare,Drug Manufacturers—General
+OLQ,Quantum Solutions,Technology,Software—Application
+XAJ,Stellar Holdings,Financial Services,Banks—Diversified
+VZV,Apex Holdings,Technology,Software—Application
+VRV,Nexus Corporation,Healthcare,Drug Manufacturers—General
+UJS,Quantum Industries,Consumer Discretionary,Home Improvement Retail
+HXC,Aurora Technologies,Consumer Discretionary,Internet Retail
+PBH,Orion Technologies,Communication Services,Entertainment
+NBL,Pinnacle Inc.,Financial Services,Banks—Diversified
+RGM,Quantum Technologies,Healthcare,Healthcare
+KCA,Pinnacle Systems,Technology,Software—Infrastructure
+FZH1,Vertex Group,Communication Services,Telecom Services
+EWI,Nexus Inc.,Technology,Software—Infrastructure
+LZK,Stellar Solutions,Energy,Oil & Gas Integrated
+GJW,Vertex Industries,Technology,Software—Application
+CJT,Aurora Systems,Consumer Discretionary,Home Improvement Retail
+RDD,Quantum Enterprises,Healthcare,Drug Manufacturers—General
+WET,Stellar Technologies,Healthcare,Health Care Plans
+BFT,Stellar Inc.,Consumer Discretionary,Home Improvement Retail
+WMZ,Orion Enterprises,Healthcare,Health Care Plans
+TNY,Orion Enterprises,Utilities,Utilities—Regulated Electric
+QZA,Quantum Solutions,Technology,Semiconductors
+BID1,Vanta Solutions,Energy,Oil & Gas Integrated
+YVF,Horizon Industries,Communication Services,Entertainment
+DWY,Orion Systems,Healthcare,Drug Manufacturers—General
+JIR,Vertex Industries,Healthcare,Healthcare
+CUJ,Nexus Corporation,Technology,Semiconductors
+QHB,Nexus Holdings,Technology,Software—Infrastructure
+MGD,Apex Corporation,Consumer Discretionary,Internet Retail
+PEE,Nexus Solutions,Technology,Software—Infrastructure
+BDZ,Vertex Systems,Energy,Oil & Gas Integrated
+FRD,Horizon Dynamics,Energy,Oil & Gas Integrated
+OXL,Quantum Technologies,Technology,Software—Application
+UAL,Horizon Group,Technology,Semiconductors
+ZCV,Orion Solutions,Utilities,Utilities—Regulated Electric
+BHE,Nexus Holdings,Communication Services,Telecom Services
+RHW,Orion Systems,Healthcare,Drug Manufacturers—General
+NEQ,Aurora Inc.,Healthcare,Drug Manufacturers—General
+TDV,Orion Dynamics,Healthcare,Healthcare
+PQE,Nexus Enterprises,Utilities,Utilities—Regulated Electric
+DUE,Horizon Solutions,Technology,Software—Application
+DWK1,Nexus Holdings,Healthcare,Health Care Plans
+UUN,Pinnacle Enterprises,Financial Services,Banks—Diversified
+ZXZ,Orion Industries,Financial Services,Banks—Diversified
+KNW,Nexus Enterprises,Technology,Semiconductors
+EFQ,Orion Inc.,Technology,Software—Application
+PGM,Nexus Holdings,Financial Services,Banks—Diversified
+GHT,Vanta Corporation,Technology,Semiconductors
+UCI,Apex Group,Consumer Discretionary,Home Improvement Retail
+PAK,Stellar Systems,Energy,Oil & Gas Integrated
+YVJ,Aurora Holdings,Technology,Software—Application
+DJR,Aurora Dynamics,Consumer Discretionary,Internet Retail
+QKD,Pinnacle Systems,Healthcare,Drug Manufacturers—General
+MXM,Quantum Holdings,Communication Services,Telecom Services
+ZVQ,Aurora Industries,Healthcare,Healthcare
+FQQ,Apex Enterprises,Energy,Oil & Gas Integrated
+ONN,Pinnacle Group,Healthcare,Healthcare
+QQE,Aurora Corporation,Healthcare,Healthcare
+DHU,Apex Enterprises,Consumer Discretionary,Internet Retail
+PFT,Vertex Holdings,Consumer Discretionary,Auto Manufacturers
+RIO,Apex Dynamics,Financial Services,Banks—Diversified
+QZF,Apex Systems,Consumer Discretionary,Internet Retail
+ZRQ,Orion Industries,Communication Services,Entertainment
+PDC,Vertex Group,Communication Services,Entertainment
+UNJ,Quantum Systems,Healthcare,Drug Manufacturers—General
+IAW,Pinnacle Enterprises,Healthcare,Health Care Plans
+YOW,Vertex Enterprises,Technology,Software—Application
+IEG,Horizon Technologies,Energy,Oil & Gas Integrated
+SLZ,Aurora Technologies,Communication Services,Entertainment
+XGK,Quantum Technologies,Healthcare,Drug Manufacturers—General
+RKP,Nexus Solutions,Healthcare,Health Care Plans
+NOU,Aurora Corporation,Technology,Software—Infrastructure
+FJL,Aurora Holdings,Communication Services,Telecom Services
+LDH,Vertex Industries,Communication Services,Telecom Services
+WIV,Vertex Dynamics,Financial Services,Banks—Diversified
+IOW1,Orion Dynamics,Technology,Semiconductors
+OQJ,Stellar Enterprises,Consumer Discretionary,Internet Retail
+XYH,Quantum Corporation,Healthcare,Health Care Plans
+LKP,Apex Dynamics,Healthcare,Healthcare
+QBH,Apex Systems,Communication Services,Entertainment
+DGU,Nexus Group,Healthcare,Healthcare
+CXZ,Aurora Dynamics,Financial Services,Banks—Diversified
+IQF,Nexus Holdings,Communication Services,Telecom Services
+FWX,Nexus Enterprises,Financial Services,Banks—Diversified
+RSP,Horizon Technologies,Energy,Oil & Gas Integrated
+SQS,Orion Systems,Energy,Oil & Gas Integrated
+PHK,Aurora Industries,Consumer Discretionary,Home Improvement Retail
+SXG,Horizon Enterprises,Healthcare,Healthcare
+NHV,Apex Systems,Communication Services,Entertainment
+ZRF,Stellar Inc.,Healthcare,Health Care Plans
+QQC,Apex Industries,Utilities,Utilities—Regulated Electric
+WRD,Apex Systems,Technology,Software—Application
+BPP,Stellar Industries,Consumer Discretionary,Home Improvement Retail
+KBX,Apex Enterprises,Technology,Semiconductors
+RHO,Apex Corporation,Communication Services,Telecom Services
+ANN,Aurora Dynamics,Utilities,Utilities—Regulated Electric
+UGJ,Pinnacle Technologies,Healthcare,Healthcare
+DUL,Stellar Systems,Utilities,Utilities—Regulated Electric
+RXY,Orion Dynamics,Consumer Discretionary,Auto Manufacturers
+VWB,Stellar Inc.,Healthcare,Drug Manufacturers—General
+RYX,Vanta Group,Utilities,Utilities—Regulated Electric
+NWF,Vanta Corporation,Technology,Software—Infrastructure
+TXI,Vertex Systems,Financial Services,Banks—Diversified
+PSX,Aurora Systems,Technology,Semiconductors
+SBB,Vanta Inc.,Energy,Oil & Gas Integrated
+ORH,Aurora Inc.,Technology,Software—Infrastructure
+VFG,Vertex Group,Healthcare,Drug Manufacturers—General
+VEC,Pinnacle Industries,Healthcare,Health Care Plans
+ITD,Pinnacle Enterprises,Utilities,Utilities—Regulated Electric
+JMU,Stellar Inc.,Communication Services,Entertainment
+CTE,Aurora Corporation,Technology,Software—Infrastructure
+ELN1,Stellar Industries,Utilities,Utilities—Regulated Electric
+GFU,Quantum Corporation,Healthcare,Drug Manufacturers—General
+WZW,Orion Enterprises,Healthcare,Drug Manufacturers—General
+HMX,Pinnacle Holdings,Consumer Discretionary,Home Improvement Retail
+OWM,Quantum Enterprises,Technology,Semiconductors
+SRB,Pinnacle Dynamics,Utilities,Utilities—Regulated Electric
+KUB,Orion Dynamics,Healthcare,Drug Manufacturers—General
+HRI,Nexus Industries,Technology,Semiconductors
+DNU,Quantum Dynamics,Healthcare,Health Care Plans
+TDG,Stellar Industries,Energy,Oil & Gas Integrated
+HOE,Vertex Dynamics,Communication Services,Entertainment
+WPM,Vanta Inc.,Financial Services,Banks—Diversified
+GCQ,Nexus Solutions,Communication Services,Entertainment
+DZI,Pinnacle Inc.,Utilities,Utilities—Regulated Electric
+JLV,Horizon Systems,Healthcare,Drug Manufacturers—General
+JBE1,Vertex Solutions,Energy,Oil & Gas Integrated
+YES,Pinnacle Dynamics,Communication Services,Entertainment
+JVN,Vanta Industries,Healthcare,Healthcare
+IHV,Stellar Enterprises,Communication Services,Entertainment
+EAF,Stellar Systems,Energy,Oil & Gas Integrated
+VKO,Vanta Technologies,Consumer Discretionary,Auto Manufacturers
+CAJ,Nexus Corporation,Energy,Oil & Gas Integrated
+KHM,Quantum Inc.,Technology,Software—Infrastructure
+WIP,Aurora Corporation,Consumer Discretionary,Home Improvement Retail
+CYM,Pinnacle Inc.,Utilities,Utilities—Regulated Electric
+LGJ,Horizon Corporation,Consumer Discretionary,Internet Retail
+NLB,Apex Inc.,Communication Services,Entertainment
+VRA,Stellar Industries,Healthcare,Health Care Plans
+AIB,Nexus Industries,Consumer Discretionary,Auto Manufacturers
+GHI,Vertex Holdings,Communication Services,Entertainment
+EFP,Stellar Corporation,Energy,Oil & Gas Integrated
+NNP,Quantum Technologies,Communication Services,Telecom Services
+SHU,Nexus Technologies,Technology,Software—Infrastructure
+XBQ,Aurora Dynamics,Communication Services,Entertainment
+KMQ,Orion Industries,Technology,Software—Infrastructure
+UGG,Apex Group,Consumer Discretionary,Home Improvement Retail
+OXD,Pinnacle Holdings,Communication Services,Entertainment
+BHZ,Horizon Solutions,Technology,Software—Application
+RMC,Quantum Holdings,Consumer Discretionary,Home Improvement Retail
+TWC,Horizon Group,Communication Services,Telecom Services
+RPG1,Quantum Systems,Healthcare,Health Care Plans
+UAB,Vertex Solutions,Consumer Discretionary,Auto Manufacturers
+GGZ,Horizon Corporation,Communication Services,Entertainment
+KRG1,Stellar Holdings,Consumer Discretionary,Auto Manufacturers
+LSA,Vertex Industries,Consumer Discretionary,Internet Retail
+QHH,Horizon Dynamics,Consumer Discretionary,Home Improvement Retail
+PSW,Pinnacle Technologies,Consumer Discretionary,Internet Retail
+WBH,Nexus Inc.,Consumer Discretionary,Internet Retail
+ZQL,Vertex Holdings,Communication Services,Telecom Services
+ASR,Aurora Dynamics,Healthcare,Healthcare
+GFW,Vertex Corporation,Consumer Discretionary,Auto Manufacturers
+SJV,Aurora Industries,Technology,Software—Infrastructure
+ACF,Quantum Systems,Technology,Software—Infrastructure
+JJC,Horizon Industries,Healthcare,Drug Manufacturers—General
+TWT,Nexus Dynamics,Technology,Semiconductors
+XGC,Stellar Group,Financial Services,Banks—Diversified
+STU,Quantum Group,Energy,Oil & Gas Integrated
+ZTR,Apex Solutions,Consumer Discretionary,Home Improvement Retail
+YGY,Apex Technologies,Healthcare,Drug Manufacturers—General
+SPX,Orion Systems,Technology,Semiconductors
+AIE1,Vanta Solutions,Consumer Discretionary,Home Improvement Retail
+XFQ,Quantum Industries,Healthcare,Drug Manufacturers—General
+EPI,Stellar Corporation,Consumer Discretionary,Auto Manufacturers
+YBP,Apex Holdings,Communication Services,Telecom Services
+YQH,Vanta Dynamics,Technology,Semiconductors
+GEN,Pinnacle Systems,Healthcare,Health Care Plans
+FKJ,Vertex Group,Healthcare,Drug Manufacturers—General
+KSC,Aurora Technologies,Healthcare,Healthcare
+GGE,Nexus Enterprises,Technology,Software—Application
+JEE,Horizon Solutions,Healthcare,Healthcare
+YQK,Apex Technologies,Communication Services,Telecom Services
+TJV1,Horizon Inc.,Consumer Discretionary,Auto Manufacturers
+LIV,Vertex Industries,Utilities,Utilities—Regulated Electric
+JOW1,Apex Holdings,Consumer Discretionary,Internet Retail
+RXZ,Vanta Inc.,Communication Services,Entertainment
+ILP,Nexus Systems,Healthcare,Healthcare
+XOQ,Vanta Holdings,Healthcare,Drug Manufacturers—General
+VSD,Orion Solutions,Technology,Software—Application
+ZAD,Vanta Industries,Technology,Software—Infrastructure
+JMT,Pinnacle Solutions,Healthcare,Drug Manufacturers—General
+DQG,Orion Industries,Healthcare,Drug Manufacturers—General
+IRC,Pinnacle Technologies,Healthcare,Healthcare
+WZM,Quantum Technologies,Healthcare,Health Care Plans
+YAD,Orion Solutions,Technology,Software—Infrastructure
+CUK,Stellar Enterprises,Technology,Software—Infrastructure
+GTT,Quantum Enterprises,Healthcare,Health Care Plans
+HNI,Stellar Systems,Consumer Discretionary,Auto Manufacturers
+EDY,Vanta Technologies,Consumer Discretionary,Internet Retail
+GKY,Horizon Dynamics,Healthcare,Health Care Plans
+QIJ1,Vertex Corporation,Consumer Discretionary,Home Improvement Retail
+YCJ,Pinnacle Technologies,Energy,Oil & Gas Integrated
+GLZ,Horizon Industries,Technology,Software—Infrastructure
+OSX,Orion Dynamics,Utilities,Utilities—Regulated Electric
+QII,Quantum Solutions,Consumer Discretionary,Auto Manufacturers
+FRZ,Orion Group,Consumer Discretionary,Auto Manufacturers
+JKH,Orion Dynamics,Consumer Discretionary,Auto Manufacturers
+BVS,Horizon Solutions,Consumer Discretionary,Auto Manufacturers
+IRV,Orion Dynamics,Communication Services,Entertainment
+ENN,Aurora Solutions,Technology,Software—Infrastructure
+XMO,Vanta Group,Consumer Discretionary,Internet Retail
+OSF,Nexus Dynamics,Healthcare,Health Care Plans
+CVA1,Stellar Holdings,Technology,Semiconductors
+JPX,Quantum Enterprises,Energy,Oil & Gas Integrated
+MYE,Orion Systems,Healthcare,Drug Manufacturers—General
+YJZ,Aurora Industries,Consumer Discretionary,Internet Retail
+LLX,Orion Corporation,Healthcare,Healthcare
+VDB,Pinnacle Technologies,Financial Services,Banks—Diversified
+YCA,Nexus Enterprises,Utilities,Utilities—Regulated Electric
+FOP,Vertex Dynamics,Technology,Software—Infrastructure
+CCP,Aurora Systems,Financial Services,Banks—Diversified
+IOP,Vertex Industries,Healthcare,Healthcare
+PAT,Vanta Technologies,Healthcare,Health Care Plans
+EFG,Aurora Dynamics,Consumer Discretionary,Home Improvement Retail
+JHG,Quantum Dynamics,Financial Services,Banks—Diversified
+MNM,Orion Inc.,Energy,Oil & Gas Integrated
+HGB,Quantum Corporation,Consumer Discretionary,Home Improvement Retail
+ELL,Vertex Enterprises,Energy,Oil & Gas Integrated
+TYW,Horizon Industries,Technology,Semiconductors
+NZC,Horizon Inc.,Communication Services,Entertainment
+KNS1,Apex Group,Consumer Discretionary,Auto Manufacturers
+SWR,Vanta Holdings,Technology,Software—Infrastructure
+YCR,Vanta Corporation,Communication Services,Telecom Services
+VPB1,Stellar Solutions,Healthcare,Health Care Plans
+CBK,Orion Systems,Consumer Discretionary,Auto Manufacturers
+DFA,Vertex Systems,Communication Services,Telecom Services
+DWM,Pinnacle Inc.,Energy,Oil & Gas Integrated
+KHZ,Apex Group,Technology,Software—Infrastructure
+PYB,Apex Holdings,Technology,Software—Infrastructure
+EFW,Apex Systems,Technology,Software—Infrastructure
+VVM,Quantum Corporation,Energy,Oil & Gas Integrated
+ZKK,Stellar Technologies,Technology,Semiconductors
+TZD,Apex Technologies,Healthcare,Healthcare
+HOP,Aurora Corporation,Energy,Oil & Gas Integrated
+AYV,Apex Enterprises,Healthcare,Drug Manufacturers—General
+WCG,Quantum Solutions,Consumer Discretionary,Auto Manufacturers
+AHG,Vertex Solutions,Healthcare,Healthcare
+ROT,Orion Inc.,Consumer Discretionary,Auto Manufacturers
+WNJ,Vertex Systems,Consumer Discretionary,Internet Retail
+TEK,Orion Technologies,Communication Services,Telecom Services
+QOG,Vanta Inc.,Technology,Semiconductors
+PJG,Orion Dynamics,Technology,Software—Application
+NJG,Pinnacle Corporation,Consumer Discretionary,Home Improvement Retail
+THV,Orion Inc.,Financial Services,Banks—Diversified
+LUB1,Orion Inc.,Technology,Software—Application
+ZMU,Apex Corporation,Healthcare,Health Care Plans
+YMG,Orion Industries,Healthcare,Health Care Plans
+ULZ,Orion Holdings,Technology,Software—Application
+LDZ,Stellar Technologies,Communication Services,Telecom Services
+COW,Pinnacle Technologies,Healthcare,Health Care Plans
+YRU,Stellar Inc.,Consumer Discretionary,Auto Manufacturers
+RQE,Stellar Solutions,Consumer Discretionary,Home Improvement Retail

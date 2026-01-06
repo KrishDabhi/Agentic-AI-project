@@ -1,0 +1,66 @@
+Industry,Material Topics,ESG Dimension,Importance Score
+Software,Data Security and Privacy,E,9.5
+Software,Intellectual Property and Patent Protection,G,8.0
+Software,Product Liability and Safety,S,7.5
+Software,Human Capital Management,S,8.5
+Software,Supply Chain Management,E,7.0
+Semiconductors,Product Design and Lifecycle Management,E,9.0
+Semiconductors,Human Capital Management,S,8.5
+Semiconductors,Supply Chain Management,E,8.0
+Semiconductors,Data Security and Privacy,E,7.5
+Semiconductors,Intellectual Property and Patent Protection,G,8.0
+Auto Manufacturers,Product Design and Lifecycle Management,E,9.5
+Auto Manufacturers,Supply Chain Management,E,8.5
+Auto Manufacturers,Human Capital Management,S,8.0
+Auto Manufacturers,Product Safety and Quality,S,9.0
+Auto Manufacturers,Regulatory Compliance,G,7.5
+Banks—Diversified,Risk and Credit Management,G,9.5
+Banks—Diversified,Data Security and Privacy,E,8.5
+Banks—Diversified,Human Capital Management,S,7.5
+Banks—Diversified,Regulatory Compliance,G,9.0
+Banks—Diversified,Access and Affordability,S,8.0
+Drug Manufacturers—General,Product Safety and Quality,S,9.5
+Drug Manufacturers—General,Regulatory Compliance,G,9.0
+Drug Manufacturers—General,Human Capital Management,S,8.0
+Drug Manufacturers—General,Product Design and Lifecycle Management,E,7.5
+Drug Manufacturers—General,Access and Affordability,S,8.5
+Internet Retail,Supply Chain Management,E,9.0
+Internet Retail,Data Security and Privacy,E,9.5
+Internet Retail,Human Capital Management,S,8.0
+Internet Retail,Product Safety and Quality,S,7.5
+Internet Retail,Regulatory Compliance,G,7.0
+Health Care Plans,Data Security and Privacy,E,9.0
+Health Care Plans,Access and Affordability,S,9.5
+Health Care Plans,Regulatory Compliance,G,9.0
+Health Care Plans,Human Capital Management,S,8.0
+Health Care Plans,Product Safety and Quality,S,8.5
+Home Improvement Retail,Supply Chain Management,E,8.5
+Home Improvement Retail,Product Safety and Quality,S,8.0
+Home Improvement Retail,Human Capital Management,S,7.5
+Home Improvement Retail,Regulatory Compliance,G,7.0
+Home Improvement Retail,Energy Management,E,8.0
+Entertainment,Human Capital Management,S,9.0
+Entertainment,Content and Privacy,E,8.5
+Entertainment,Regulatory Compliance,G,7.5
+Entertainment,Supply Chain Management,E,7.0
+Entertainment,Product Safety and Quality,S,7.5
+Oil & Gas Integrated,Greenhouse Gas Emissions,E,10.0
+Oil & Gas Integrated,Water and Wastewater Management,E,9.0
+Oil & Gas Integrated,Energy Management,E,9.5
+Oil & Gas Integrated,Regulatory Compliance,G,8.5
+Oil & Gas Integrated,Human Capital Management,S,7.5
+Telecom Services,Data Security and Privacy,E,9.5
+Telecom Services,Human Capital Management,S,8.0
+Telecom Services,Energy Management,E,8.5
+Telecom Services,Regulatory Compliance,G,9.0
+Telecom Services,Access and Affordability,S,8.5
+Healthcare,Product Safety and Quality,S,9.5
+Healthcare,Regulatory Compliance,G,9.0
+Healthcare,Access and Affordability,S,9.0
+Healthcare,Human Capital Management,S,8.0
+Healthcare,Data Security and Privacy,E,8.5
+Utilities—Regulated Electric,Greenhouse Gas Emissions,E,10.0
+Utilities—Regulated Electric,Energy Management,E,9.5
+Utilities—Regulated Electric,Water and Wastewater Management,E,8.5
+Utilities—Regulated Electric,Regulatory Compliance,G,8.0
+Utilities—Regulated Electric,Human Capital Management,S,7.5
