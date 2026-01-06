@@ -3,7 +3,7 @@
 # Global Settings
 system:
   name: ESG Monitor
-  version: 2.0.0
+  version: 1.0.0
   log_level: INFO
   debug: false
 
@@ -17,7 +17,7 @@ agents:
 # Data Settings
 data:
   synthetic_data_enabled: true
-  data_refresh_interval: 3600  # seconds
+  data_refresh_interval: 300  # seconds
   batch_size: 100
 
 # Portfolio Settings
@@ -40,4 +40,4 @@ monitoring:
     - S  # Social
     - G  # Governance
   alert_threshold: 7.5
-  check_interval: 300  # seconds
+  check_interval: 120  # second
